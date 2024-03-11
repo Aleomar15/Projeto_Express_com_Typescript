@@ -1,0 +1,93 @@
+2024-03-06:07:01:71 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:10:08:108 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:10:08:108 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:10:39:1039 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:10:39:1039 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:10:43:1043 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:10:43:1043 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:15:07:157 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:15:07:157 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:41:41:4141 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:41:41:4141 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:42:03:423 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:42:03:423 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:42:54:4254 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-06:42:54:4254 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-06:43:03:433 - [35mhttp[39m: [35mGET /api/test 200 11 - 8.365 ms[39m
+[35m[39m
+2024-03-08:25:53:2553 - [31merror[39m: [31mNão foi possivel connectar[39m
+2024-03-08:27:34:2734 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:27:34:2734 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:33:13:3313 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:33:13:3313 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:37:42:3742 - [35mhttp[39m: [35mPOST /api/movies 404 150 - 60.506 ms[39m
+[35m[39m
+2024-03-08:37:52:3752 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 33.244 ms[39m
+[35m[39m
+2024-03-08:44:12:4412 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:44:12:4412 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:45:27:4527 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 194.197 ms[39m
+[35m[39m
+2024-03-08:57:54:5754 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:57:54:5754 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:58:31:5831 - [35mhttp[39m: [35mPOST /api/movie 201 150 - 103.361 ms[39m
+[35m[39m
+2024-03-08:08:28:828 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:08:28:828 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:08:42:842 - [35mhttp[39m: [35mPOST /api/movie 422 53 - 39.928 ms[39m
+[35m[39m
+2024-03-08:13:08:138 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:13:08:138 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:15:21:1521 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:15:21:1521 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:15:33:1533 - [35mhttp[39m: [35mPOST /api/movie 422 119 - 27.593 ms[39m
+[35m[39m
+2024-03-08:18:47:1847 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:18:47:1847 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:20:27:2027 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:20:27:2027 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:21:11:2111 - [35mhttp[39m: [35mPOST /api/movie 422 60 - 63.085 ms[39m
+[35m[39m
+2024-03-08:23:12:2312 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-08:23:12:2312 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-08:23:48:2348 - [35mhttp[39m: [35mPOST /api/movie 201 196 - 191.053 ms[39m
+[35m[39m
+2024-03-11:50:01:501 - [31merror[39m: [31mNão foi possivel connectar[39m
+2024-03-11:51:34:5134 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:51:34:5134 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:52:23:5223 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:52:23:5223 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:58:19:5819 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:58:19:5819 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:04:15:415 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:04:15:415 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:07:29:729 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:07:29:729 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:08:32:832 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:08:32:832 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:09:20:920 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:09:20:920 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:09:28:928 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:09:28:928 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:10:35:1035 - [35mhttp[39m: [35mGET /api//movie 200 505 - 40.488 ms[39m
+[35m[39m
+2024-03-11:13:32:1332 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:13:32:1332 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:14:48:1448 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:14:48:1448 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:15:12:1512 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:15:12:1512 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:17:21:1721 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:17:21:1721 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:18:15:1815 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:18:15:1815 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:20:45:2045 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:20:45:2045 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:24:45:2445 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:24:45:2445 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:25:23:2523 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:25:23:2523 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:28:01:281 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:28:01:281 - [32minfo[39m: [32mFuncionando na porta 3000[39m
+2024-03-11:29:39:2939 - [32minfo[39m: [32mBanco connectado[39m
+2024-03-11:29:39:2939 - [32minfo[39m: [32mFuncionando na porta 3000[39m
